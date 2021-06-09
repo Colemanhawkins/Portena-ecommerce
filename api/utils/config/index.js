@@ -8,5 +8,5 @@ module.exports = {
     dbPassword: process.env.DB_PASSWORD || '1234',
     HOST: process.env.HOST || 'localhost',
     PORT: process.env.PORT || '3001',
-    APYKEY: process.env.APY_KEY
+    frontUrl: process.env.FRONT_URL
 }
