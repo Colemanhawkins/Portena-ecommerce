@@ -24,4 +24,4 @@ conn.sync({truncate: true}).then(() => {
     })
 })
 
-console.log('prueba para merge')
+console.log('prueba para mergeeeeee')
