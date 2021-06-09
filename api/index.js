@@ -23,3 +23,5 @@ conn.sync({truncate: true}).then(() => {
         console.log(`server escuchando el puerto ${PORT}`)
     })
 })
+
+console.log('prueba para merge')
